@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('HWiNFO64.exe', './')],
+    datas=[('HWiNFO64.exe', '')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
