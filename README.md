@@ -14,4 +14,10 @@ cd  Consomation
 ```batch
 py main.py
 ```
+or
+```batch
+python3 main.py
+```
+
+**May sure you have os and sys installed on your Windows system !**
 
